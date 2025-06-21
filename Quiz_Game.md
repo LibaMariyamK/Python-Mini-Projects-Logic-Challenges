@@ -56,7 +56,7 @@ A menu-driven **Python Quiz Game** that allows users to answer multiple-choice q
 
 ---
 
-## 💡 Bonus Features (Optional)
+## 💡 Bonus Features 
 
 1. **Timed Questions**
 - Limit each answer to 10 seconds using the `time` module.
@@ -80,7 +80,7 @@ Alice | Score: 7/10
 Bob | Score: 5/10
 Carol | Score: 9/10
 
-```
+````
 
 > With timestamp (bonus format):
 ```
