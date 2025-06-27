@@ -27,7 +27,7 @@ This project is a **Menu-Driven Python Application** that determines a user's ag
 
 1. Check Age & Eligibility
 2. View All Records (Current Session)
-3. Clear Session Records
+3. Clear All Records in File
 4. View Last 5 Entries from File
 5. Exit
 
@@ -35,11 +35,11 @@ This project is a **Menu-Driven Python Application** that determines a user's ag
 
 4. **Session History**
    - Stores current session entries in a list.
-   - Allows viewing and clearing of current session data.
 
 5. **File Handling**
    - Records are saved to `eligibility_log.txt`.
-   - On startup, displays the **last 5 entries** from the file.
+   - Option to displays the **last 5 entries** from the file.
+   - Option to clear all records in file.
    - Uses the `with` statement for safe and efficient file operations.
 
 6. **Error Handling**
