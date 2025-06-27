@@ -38,8 +38,8 @@ This project is a **Menu-Driven Python Application** that determines a user's ag
 
 5. **File Handling**
    - Records are saved to `eligibility_log.txt`.
-   - Option to displays the **last 5 entries** from the file.
-   - Option to clear all records in file.
+   - Option to display the **last 5 entries** from the file.
+   - Option to clear all records in the file.
    - Uses the `with` statement for safe and efficient file operations.
 
 6. **Error Handling**
